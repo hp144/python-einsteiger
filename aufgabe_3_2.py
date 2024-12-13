@@ -6,3 +6,4 @@ def zufall():
 
 
 print(zufall())
+print(zufall())
